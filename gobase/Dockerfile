@@ -1,4 +1,4 @@
-FROM busybox:musl
+FROM busybox:1.25.0-musl
 
 MAINTAINER Stephan Florquin <stephan@paymium.com>
 

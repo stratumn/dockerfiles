@@ -1,4 +1,4 @@
-FROM busybox:1.25.0-musl
+FROM busybox:1.28.3-musl
 
 MAINTAINER Stephan Florquin <stephan@stratumn.com>
 
